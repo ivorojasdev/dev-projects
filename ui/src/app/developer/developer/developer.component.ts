@@ -17,7 +17,6 @@ export class DeveloperComponent implements OnInit {
   getDevelopers() {
     this.developerService.getDevelopers().subscribe((data) => {
       this.developers = data as Array<Developer>;
-      console.log('Ainit:', this.developers, data);
     });
   }
 }

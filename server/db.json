@@ -1,0 +1,17 @@
+{
+  "Developers": [
+    {
+      "id": 0,
+      "name": "John",
+      "lastname": "doe",
+      "salary": 200
+    }
+  ],
+  "Projects": [
+    {
+      "id": 0,
+      "name": "Airplane"
+    }
+  ],
+  "DeveloperProject": [{ "developer_id": 0, "project_id": 0 }]
+}

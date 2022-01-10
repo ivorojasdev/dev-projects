@@ -1,3 +1,13 @@
-# dev-projects
+this project has 2 folder:
 
-This is the base code for a developers and projects management.
+# UI
+
+to run the UI:
+`cd ui`
+`npm start`
+
+# Server
+
+to run the Server:
+`cd server`
+`npm start`
